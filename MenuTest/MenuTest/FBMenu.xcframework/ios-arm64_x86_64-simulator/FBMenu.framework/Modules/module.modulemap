@@ -1,0 +1,11 @@
+framework module FBMenu {
+  umbrella header "FBMenu.h"
+
+  export *
+  module * { export * }
+}
+
+module FBMenu.Swift {
+    header "FBMenu-Swift.h"
+    requires objc
+}

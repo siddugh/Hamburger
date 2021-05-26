@@ -1,0 +1,22 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)
+// swift-module-flags: -target arm64-apple-ios14.3 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name FBMenu
+@_exported import FBMenu
+import Foundation
+import Swift
+import UIKit
+public class FBXMenu {
+  public init()
+  public func addControllers(startingController: UIKit.UIViewController, menuController: UIKit.UIViewController, initialController: UIKit.UIViewController?)
+  public func setPanelExpansionOffset(offset: CoreGraphics.CGFloat)
+  public func setShadowColor(color: UIKit.UIColor)
+  public func setShadowWidth(width: CoreGraphics.CGFloat)
+  @objc deinit
+}
+public protocol FBMenuControllerDelegate : AnyObject {
+  func toggleLeftPanel()
+  func showScreen(vc: UIKit.UIViewController)
+}
+public protocol FBMenuDelegate : AnyObject {
+  var menuDelegate: FBMenu.FBMenuControllerDelegate? { get set }
+}
