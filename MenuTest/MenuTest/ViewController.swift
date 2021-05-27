@@ -20,7 +20,5 @@ class ViewController: UIViewController {
     fb.addControllers(startingController: self, menuController: MenuViewController(), initialController: fc)
     
   }
-
-
 }
 
