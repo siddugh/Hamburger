@@ -15,8 +15,8 @@ class ViewController: UIViewController {
     // Do any additional setup after loading the view.
     
     let fb = FBXMenu()
-    let fc = FirstViewController()    
-    fb.addControllers(startingController: self, menuController: MenuViewController(), initialController: fc)
+    let fc = FirstViewController()
+    fb.addControllers(container: self, menuController: MenuViewController(), initialController: fc)
     
   }
 }

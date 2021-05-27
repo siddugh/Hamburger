@@ -7,7 +7,7 @@ import Swift
 import UIKit
 public class FBXMenu {
   public init()
-  public func addControllers(startingController: UIKit.UIViewController, menuController: UIKit.UIViewController, initialController: UIKit.UIViewController?)
+  public func addControllers(container: UIKit.UIViewController, menuController: FBMenu.FBMenuDelegate, initialController: FBMenu.FBMenuDelegate?)
   public func setPanelExpansionOffset(offset: CoreGraphics.CGFloat)
   public func setShadowColor(color: UIKit.UIColor)
   public func setShadowWidth(width: CoreGraphics.CGFloat)
