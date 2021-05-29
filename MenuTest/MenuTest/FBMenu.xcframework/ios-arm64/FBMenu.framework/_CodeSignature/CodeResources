@@ -18,27 +18,27 @@
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		ScTrDCSU1VZUpZD+nCkBwM2a5oo=
+		E3nq90fuhIoUbISk2VD+Ej4QS+s=
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		rr2X2F3bN8dgp8ZTX6/ANcdF/3Y=
+		sfdfOgtP8JcNw+gaahTNWgNJ/OE=
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		brZPYVVctrWc2xI/autBXe8TLzg=
+		paDS2+NxL7PQgUkF+aF59rju3+U=
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ScTrDCSU1VZUpZD+nCkBwM2a5oo=
+		E3nq90fuhIoUbISk2VD+Ej4QS+s=
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		rr2X2F3bN8dgp8ZTX6/ANcdF/3Y=
+		sfdfOgtP8JcNw+gaahTNWgNJ/OE=
 		</data>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		brZPYVVctrWc2xI/autBXe8TLzg=
+		paDS2+NxL7PQgUkF+aF59rju3+U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,42 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ADsqe0nUQYAcf3/9Rkm/bDz9VgOxtMONP+3g/Y2iHSc=
+			EDkHcLvVPncV/aEV8Du2yFBDnUmk9dD3f1HTI8qo80w=
 			</data>
 		</dict>
 		<key>Modules/FBMenu.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27oBfSSNNfKwWKQ1X4mv+2p6BKhVQccA4F4X4XisEuI=
+			7dllZM7+8ymV7/9HSvBhgdiejZj5ZUJLMwYvjOsLb6Q=
 			</data>
 		</dict>
 		<key>Modules/FBMenu.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKUI+z1V3RL2piofiyow1/V3y3UVSz+1j+bVQPh5COk=
+			NP3a14tVmQ1wA08Be92hsPkgP2Ibt3zR9uc+8LAo5Lg=
 			</data>
 		</dict>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ADsqe0nUQYAcf3/9Rkm/bDz9VgOxtMONP+3g/Y2iHSc=
+			EDkHcLvVPncV/aEV8Du2yFBDnUmk9dD3f1HTI8qo80w=
 			</data>
 		</dict>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			27oBfSSNNfKwWKQ1X4mv+2p6BKhVQccA4F4X4XisEuI=
+			7dllZM7+8ymV7/9HSvBhgdiejZj5ZUJLMwYvjOsLb6Q=
 			</data>
 		</dict>
 		<key>Modules/FBMenu.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NKUI+z1V3RL2piofiyow1/V3y3UVSz+1j+bVQPh5COk=
+			NP3a14tVmQ1wA08Be92hsPkgP2Ibt3zR9uc+8LAo5Lg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
